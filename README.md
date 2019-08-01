@@ -24,6 +24,7 @@ Visit the tool website for the full dataset and more :
 https://home.jbnu.ac.kr/NSCL/dsc.htm
 
 
-#contact: 
+contact: 
+
 zakaria.louadi@gmail.com /
 zakaria@jbnu.ac.kr
