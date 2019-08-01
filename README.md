@@ -14,7 +14,7 @@ Alternative splicing (AS) is the process of combining different parts of the pre
 
 
 ## Deep Splicing Code: The Web Tool
-Visit the tool website for the full dataset and more :
+Visit the tool website for generating predictions, the full dataset and more :
 https://home.jbnu.ac.kr/NSCL/dsc.htm
 
 ## Citation
