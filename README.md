@@ -4,7 +4,6 @@ Deep Splicing Code : A deep learning approach for classification of alternative 
 
 
 Citation:
-
 Louadi Z, Oubounyt M, Tayara H, Chong KT. Deep Splicing Code: Classifying Alternative Splicing Events Using Deep Learning. Genes. 2019; 10(8):587.
 
 
