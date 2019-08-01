@@ -1,6 +1,4 @@
-Deep Splicing Code 
-
-A deep learning approach for classification of alternative splicing events
+Deep Splicing Code : A deep learning approach for classification of alternative splicing events
 
 
 
