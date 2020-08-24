@@ -23,4 +23,4 @@ Louadi Z, Oubounyt M, Tayara H, Chong KT. Deep Splicing Code: Classifying Altern
 
 
 ## Contact
-Zakaria Louadi: zakaria.louadi@gmail.com /zakaria@jbnu.ac.kr
+Zakaria Louadi: zakaria@jbnu.ac.kr
